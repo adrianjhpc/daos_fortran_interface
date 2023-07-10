@@ -1,2 +1,2 @@
-# daos_fortran_interface
+# DAOS Fortran Interface
 Fortran interface to the DAOS object store library/API
